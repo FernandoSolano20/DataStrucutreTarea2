@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/Tarea 2/src/com/numbers/bl/Business.h
+
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/Tarea 2/src/com/numbers/tl/Controller.h
+../bl/Business.h
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/Tarea 2/src/com/numbers/bl/Business.h
+
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/Tarea 2/src/com/numbers/ui/main.cpp
+iostream
+-
+../tl/Controller.h
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/Tarea 2/src/com/numbers/tl/Controller.h
+
